@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Catfactstest/static/css/main.092cc42b.css",
+    "main.js": "/Catfactstest/static/js/main.6b537b6d.js",
+    "static/media/From Cartoon Blocks.ttf": "/Catfactstest/static/media/From Cartoon Blocks.c73bcbe120dbe6f8ff2c.ttf",
+    "static/media/Gilroy-Light.otf": "/Catfactstest/static/media/Gilroy-Light.cc7ab55d27205bd64001.otf",
+    "index.html": "/Catfactstest/index.html",
+    "main.092cc42b.css.map": "/Catfactstest/static/css/main.092cc42b.css.map",
+    "main.6b537b6d.js.map": "/Catfactstest/static/js/main.6b537b6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.092cc42b.css",
+    "static/js/main.6b537b6d.js"
+  ]
+}
